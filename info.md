@@ -1,1 +1,1 @@
-first str
+![блок-схема](diagram.png)
